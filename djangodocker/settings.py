@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-0-(satm=zo!=e!@d23ksrv*uffu)opw*-7^2kirul4!idt^@7w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["django-ahsankkhan.cloud.okteto.net","https://cloud.okteto.com/?_gl=1*q2f0zt*_ga*MTU4MjAxMzE2Mi4xNjgwNzUyMzc4*_ga_KSKZWJHTJZ*MTY4MDc1MjM3OC4xLjEuMTY4MDc1MjQwMC4wLjAuMA..#/spaces/ali-hashir"]
+ALLOWED_HOSTS = ["django-ahsankkhan.cloud.okteto.net"]
 
 
 # Application definition
